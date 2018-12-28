@@ -1,12 +1,15 @@
 # node-app
-nodejs web项目的目录结构
+
+A nodejs project
+nodejs web 项目的目录结构
 
 ## 代码目录结构
+
 - /
 - dispatch.js 主进程文件
 - worker.js 工作进程
 - app.js 应用
-- routes.js url路由表
+- routes.js url 路由表
 - package.json 依赖模块
 - config.js or config/ 配置文件
 - controllers/ 业务逻辑相关
